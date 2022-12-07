@@ -21,7 +21,7 @@ function Info() {
     }
   }
   if(token === null){
-    return <Navigate to="/auth" />
+    return <Navigate to="/nexis/auth" />
   }else{
     return (
       <div className='info-container'>

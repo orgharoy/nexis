@@ -17,8 +17,8 @@ function App() {
       <div className="App">
         <Navbar />
         <Routes>
-          <Route  path="/" exact element = {<Info />} />
-          <Route  path="/auth" exact element = {<Auth />} />    
+          <Route  path="/nexis/" exact element = {<Info />} />
+          <Route  path="/nexis/auth" exact element = {<Auth />} />    
         </Routes>
       </div>
     </Router>
