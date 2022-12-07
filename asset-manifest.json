@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nexis/static/css/main.84b421df.css",
+    "main.js": "/nexis/static/js/main.d61f8e39.js",
+    "static/media/image.png": "/nexis/static/media/image.8d10a9dba8d5b1bd59d9.png",
+    "index.html": "/nexis/index.html",
+    "main.84b421df.css.map": "/nexis/static/css/main.84b421df.css.map",
+    "main.d61f8e39.js.map": "/nexis/static/js/main.d61f8e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b421df.css",
+    "static/js/main.d61f8e39.js"
+  ]
+}
