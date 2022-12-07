@@ -25,7 +25,7 @@ function Login() {
 
         if (res.status === 200) {
           localStorage.setItem('token', data.refresh_token);
-          navigate('/nexis')
+          navigate('/')
         } else {
           console.log(data);
         }

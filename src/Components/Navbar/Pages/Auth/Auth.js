@@ -26,7 +26,7 @@ function Auth() {
   };
 
   if(token !== null){
-    return <Navigate to="/nexis/" />
+    return <Navigate to="/" />
   }else{
     return (
       <div className='auth'>

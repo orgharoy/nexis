@@ -42,7 +42,7 @@ function Register(click) {
         if (res.status === 200) {
           console.log('successfully created account')
 
-          navigate('/nexis')
+          navigate('/')
         } else {
           console.log(data);
         }
